@@ -1,16 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1d4ed8,100:0d1117&text=THIAGO.DEV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2557,50:1e40af,100:0f2557&text=THIAGO.DEV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-  <img width="100%" alt="THIAGO.DEV" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1d4ed8,100:0d1117&text=THIAGO.DEV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1d4ed8,100:0d1117&text=THIAGO.DEV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+REACT+%7C+POSTGRESQL;CYBERSECURITY+ENTHUSIAST;WELCOME+TO+MY+CODE+UNIVERSE"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=1E40AF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+REACT+%7C+POSTGRESQL;CYBERSECURITY+ENTHUSIAST;WELCOME+TO+MY+CODE+UNIVERSE"/>
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+REACT+%7C+POSTGRESQL;CYBERSECURITY+ENTHUSIAST;WELCOME+TO+MY+CODE+UNIVERSE"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+REACT+%7C+POSTGRESQL;CYBERSECURITY+ENTHUSIAST;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
 <br/>
 
@@ -142,11 +134,7 @@ export default thiago;
 <h2 align="center">🐍 <code>contribution-snake.render</code></h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
@@ -179,16 +167,8 @@ export default thiago;
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=%3E+session+closed+%E2%80%94+thanks+for+visiting;%3E+connection+open+%E2%80%94+let's+build+something"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=1E40AF&center=true&vCenter=true&width=520&lines=%3E+session+closed+%E2%80%94+thanks+for+visiting;%3E+connection+open+%E2%80%94+let's+build+something"/>
-  <img alt="footer message" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=%3E+session+closed+%E2%80%94+thanks+for+visiting;%3E+connection+open+%E2%80%94+let's+build+something"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=%3E+session+closed+%E2%80%94+thanks+for+visiting;%3E+connection+open+%E2%80%94+let's+build+something"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:1d4ed8,100:0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2557,50:1e40af,100:0f2557"/>
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:1d4ed8,100:0d1117"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,50:1d4ed8,100:0d1117"/>
 
 </div>
