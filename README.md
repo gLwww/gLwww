@@ -134,7 +134,8 @@ export default thiago;
 <h2 align="center">🐍 <code>contribution-snake.render</code></h2>
 
 <p align="center">
-<img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake.svg"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
