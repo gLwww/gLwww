@@ -144,10 +144,10 @@ export default thiago;
 ```bash
 > Loading objectives...
 
-[███████░░░] Offensive Security Fundamentals
-[██████░░░░] Defensive Security & Hardening
-[████████░░] Networks & Protocols
-[█████░░░░░] LGPD & Data Protection
+[█████████  ] Offensive Security Fundamentals
+[████████   ] Defensive Security & Hardening
+[█████████  ] Networks & Protocols
+[██████████ ] LGPD & Data Protection
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
