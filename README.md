@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gLwww&label=PROFILE%20VIEWS&color=1e3a8a&style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/followers/gLwww?label=FOLLOWERS&style=for-the-badge&color=1d4ed8&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=thiagodallo&label=PROFILE%20VIEWS&color=1e3a8a&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/thiagodallo?label=FOLLOWERS&style=for-the-badge&color=1d4ed8&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/LOCATION-Criciúma%2C%20Brazil-2563eb?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
@@ -88,7 +88,7 @@ export default thiago;
 <td width="50%" valign="top" align="center">
 <h3>🚗 Vehicle Rental System</h3>
 <p>Complete relational database for vehicle rental management: modeling, normalization and optimized queries.</p>
-<a href="https://github.com/gLwww/sistema-locacao-veiculos" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/thiagodallo/sistema-locacao-veiculos" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/SQL-1e3a8a?style=flat-square"/>
@@ -98,7 +98,7 @@ export default thiago;
 <td width="50%" valign="top" align="center">
 <h3>🎓 Student App - React</h3>
 <p>React front-end for academic management, built with reusable components, state-driven views and a responsive layout.</p>
-<a href="https://github.com/gLwww/app-aluno-react" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/thiagodallo/app-aluno-react" target="_blank"><img src="https://img.shields.io/badge/View%20Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=60A5FA"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=60A5FA"/>
@@ -134,7 +134,7 @@ export default thiago;
 <h2 align="center">🐍 <code>contribution-snake.render</code></h2>
 
 <p align="center">
-<img alt="contribution snake" src="https://raw.githubusercontent.com/gLwww/gLwww/output/github-contribution-grid-snake.svg"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/thiagodallo/thiagodallo/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
@@ -156,7 +156,7 @@ export default thiago;
 
 <div align="center">
 
-<a href="https://github.com/gLwww" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/></a>
+<a href="https://github.com/thiagodallo" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=60A5FA"/></a>
 <a href="https://www.linkedin.com/in/thiago-dall%C3%B3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="/></a>
 <a href="https://www.instagram.com/thiago.dallo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:dallothiago@hotmail.com"><img src="https://img.shields.io/badge/Outlook-1d4ed8?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEzLjYgNS41aDguNmMuNTUgMCAxIC40NSAxIDF2MTFjMCAuNTUtLjQ1IDEtMSAxaC04LjZWNS41em0uOSAyLjA1djEuMzJsMy40IDIuMyAzLjQtMi4zVjcuNTVsLTMuNCAyLjMtMy40LTIuM3oiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTIuMiAzLjIgMS40IDUuMUMuOSA1LjE5LjUgNS42Ni41IDYuMTh2MTEuNjRjMCAuNTIuNC45OS45IDEuMDhsMTAuOCAxLjljLjYxLjExIDEuMi0uMzYgMS4yLS45OFY0LjE4YzAtLjYyLS41OS0xLjA5LTEuMi0uOTh6TTcgMTUuOWMtMi4xNSAwLTMuNjUtMS42Mi0zLjY1LTMuOVM0Ljg1IDguMSA3IDguMXMzLjY1IDEuNjIgMy42NSAzLjlTOS4xNSAxNS45IDcgMTUuOXoiLz48ZWxsaXBzZSBmaWxsPSIjRkZGRkZGIiBjeD0iNyIgY3k9IjEyIiByeD0iMS43NSIgcnk9IjIuMTUiLz48L3N2Zz4="/></a>
