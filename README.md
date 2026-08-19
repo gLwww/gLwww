@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1d4ed8,100:0d1117&text=THIAGO.DEV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1d4ed8,100:0d1117&text=CYBER.THIAGO&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;PYTHON+%7C+REACT+%7C+POSTGRESQL;CYBERSECURITY+ENTHUSIAST;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
@@ -11,25 +11,7 @@
 <img src="https://img.shields.io/badge/LOCATION-Criciúma%2C%20Brazil-2563eb?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
-
-<h2 align="center">🤖 <code>system-core.sh</code></h2>
-
-```bash
-╭──────────────────────────────╮
-│      THIAGO SYSTEM v2.0      │
-╰──────────────────────────────╯
-Initializing system...
-████████████████████ 100%
-✔ Developer detected
-✔ Curiosity enabled
-✔ Code engine activated
-✔ Security module loading
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2563eb,100:0d1117&height=3&width=100%25" width="100%"/>
-
 <h2 align="center">👨‍💻 <code>about-me.sh</code></h2>
 
 <table width="100%">
